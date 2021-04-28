@@ -1,0 +1,7 @@
+SevenSeg.c:10:6:TM1637_Delay	16	static,ignoring_inline_asm
+SevenSeg.c:18:6:TM1637_Start	8	static
+SevenSeg.c:28:6:TM1637_Stop	8	static
+SevenSeg.c:44:6:TM1637_WriteByte	24	static
+SevenSeg.c:70:6:TM1637_WriteCommand	16	static
+SevenSeg.c:77:6:TM1637_WriteData	16	static
+SevenSeg.c:85:6:DisplayDigits	24	static
